@@ -1,0 +1,32 @@
+@charset "utf-8";
+/* CSS Document */
+
+#header {
+    height: 100px;
+    font-weight: bold;
+    color: green;
+    background-color: yellow;
+}
+#content {
+    background-color: white;
+}
+#sidebar {
+    background-color: green;
+}
+#wrapper {
+    margin: auto;
+    background-color: white;
+}
+#footer {
+    background-color: blue;
+    clear: both;
+}
+
+.box {
+	background-color:#0F9;
+	height: 220px
+}
+
+.spacer {
+	height:10px;
+}
